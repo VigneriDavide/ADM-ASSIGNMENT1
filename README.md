@@ -32,5 +32,5 @@ The structure of this section is the following:
 - in Problem 2 you find the solutions of 6 problems present on Hackerank: _birthday cake candles_, _kangaroo_, _strange advertising_, _recursive digit sum_, _insertion sort1_, _insertion sort2_.
 
 ## The 'stamps.pdf' file
-This pdf file, which you may find in the sub-folder _stamp_, contains the screenshots of all the submission[^note] of the Hackerank problems.
+This pdf file, which you may find in the sub-folder _stamps_, contains the screenshots of all the submission[^note] of the Hackerank problems.
 [^note]: sorted by challenge
